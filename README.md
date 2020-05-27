@@ -1,2 +1,2 @@
-# Collision-Algorithm
-On collision boxes change colour to red.
+# p5.play-boilerplate
+Boiler plate for p5.play
